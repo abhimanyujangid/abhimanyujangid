@@ -2,7 +2,6 @@
 
 <a href='https://linkedin.com/in/anishsoni/'><img align='left' alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/anishsoni29'><img align='left' alt="Twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/anishsoni'><img alt="Kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
 
 🚀 Tech enthusiast | Code Ninja | Cybersecurity explorer. 💻 Bachelor of Tech in Computer Science.I'm passionate about building cool projects and diving deep into AI, web development, and cybersecurity.
@@ -10,7 +9,7 @@
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVzcXYyaDlqZzd5NmpzdThoNHljM3k2NXl1bWsyYTJmNW9teHJoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" width="360px"/>
 
 
 ### 🧐 More About Me:
