@@ -5,8 +5,7 @@
 
 <br>
 
-🚀 Tech enthusiast | Code Ninja | Cybersecurity explorer. 💻 Bachelor of Tech in Computer Science.I'm passionate about building cool projects and diving deep into AI, web development, and cybersecurity.
-🏆 Awarded for academic excellence and project innovation
+🚀 Tech enthusiast | Code Ninja | Cybersecurity explorer. 💻 Bachelor of Tech in Computer Science| 🏆 Awarded for academic excellence and project innovation
 <br/>
 <br/>
 
@@ -16,13 +15,11 @@
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently learning **Machine Learning**
-- 🌱 &nbsp; I’m currently learning Data Analysis and ML; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available [here](https://github.com/anishsoni29?tab=repositories)
+- 👨🏻‍💻 &nbsp; Most of my projects are available [here](https://github.com/abhimanyujangid?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech and finance related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abhimanyu-jangid-098a62216/)
 - 📝 &nbsp; Checkout my [resume](assets/resume_abhimanyu_jangid.pdf)
-- 📚 &nbsp; I enjoy traveling, photography, reading, and playing games when free. Check out my [page](https://www.instagram.com/depolarised_/) to see the world from my eyes!
-
+- 📚 &nbsp; I enjoy programming, cooking, and photography.
 <br>
 
 ### 🔨 Languages and Tools:
