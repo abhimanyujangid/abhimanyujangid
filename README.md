@@ -1,17 +1,11 @@
-## Hey 👋, I'm Anish !
+## 👋 Hey there, I'm Abhimanyu Jangid!
 
 <a href='https://linkedin.com/in/anishsoni/'><img align='left' alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/anishsoni29'><img align='left' alt="Twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 <a href='https://www.kaggle.com/anishsoni'><img alt="Kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
-👋 Hey there, I'm Abhimanyu Jangid!
 
-🚀 Tech enthusiast | Code ninja | Cybersecurity explorer
-
-💻 Bachelor of Tech in Computer Science
-
-🔥 Passionate about building cool projects and diving deep into AI, web development, and cybersecurity
-
+🚀 Tech enthusiast | Code Ninja | Cybersecurity explorer. 💻 Bachelor of Tech in Computer Science.I'm passionate about building cool projects and diving deep into AI, web development, and cybersecurity.
 🏆 Awarded for academic excellence and project innovation
 <br/>
 <br/>
@@ -46,13 +40,5 @@
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://expressjs.com/" target="_blank"> <img align="left" alt="Express" height ="42px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg"></a>
-
-<br>
-
-### 📊 Github Stats
-
-[![](https://raw.githubusercontent.com/anishsoni29/Anish/master/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/anishsoni29/Anish/master/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/anishsoni29/Anish/master/profile-summary-card-output/dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/anishsoni29/Anish/master/profile-summary-card-output/dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/anishsoni29/Anish/master/profile-summary-card-output/dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <br>
