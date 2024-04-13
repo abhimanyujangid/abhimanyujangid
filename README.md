@@ -18,7 +18,7 @@
 - 👨🏻‍💻 &nbsp; Most of my projects are available [here](https://github.com/abhimanyujangid?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech and finance related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abhimanyu-jangid-098a62216/)
-- 📝 &nbsp; Checkout my [resume](https://github.com/abhimanyujangid/Resume/blob/main/resume/resume_abhimanyu_jangid.pdf)
+- 📝 &nbsp; Checkout my [resume](https://github.com/abhimanyujangid/Resume/blob/main/resume_abhimanyu_jangid.pdf)
 - 📚 &nbsp; I enjoy programming, cooking, and photography.
 <br>
 
