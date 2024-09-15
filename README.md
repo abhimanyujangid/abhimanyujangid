@@ -1,11 +1,10 @@
 ## 👋 Hey there, I'm Abhimanyu Jangid!
 
-<a href='https://www.linkedin.com/in/abhimanyu-jangid-098a62216/'><img align='left' alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/abhimanyu2984'><img align='left' alt="Twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+
 
 <br>
 
-🚀 - ✨ I am a Full Stack Developer with a huge love for Javascript, React.js, Node.js, Next.js
+🚀 - ✨ I am a Full Stack Developer with a huge love for Javascript, React.js, Node.js
 <br/>
 <br/>
 
