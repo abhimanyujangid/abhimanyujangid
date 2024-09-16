@@ -2,6 +2,7 @@
 
 
 
+
 <br>
 
 🚀 - ✨ I am a Full Stack Developer with a huge love for Javascript, React.js, Node.js
@@ -51,7 +52,7 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhimanyujangid&theme=dark&date_format=j%20M%5B%20Y%5D&exclude_days=Thu%2CFri%2CSat)](https://git.io/streak-stats) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhimanyujangid&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=abhimanyujangid&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <br>
 <h2 align="left">🤝Contact</h2>
