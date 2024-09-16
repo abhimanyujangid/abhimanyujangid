@@ -52,8 +52,7 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhimanyujangid&theme=dark&date_format=j%20M%5B%20Y%5D&exclude_days=Thu%2CFri%2CSat)](https://git.io/streak-stats)
-</br>
-<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhimanyujangid&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
