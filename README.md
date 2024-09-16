@@ -48,7 +48,10 @@
 ```Gitlab```
 
 </p>
+---
 
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhimanyujangid&theme=dark&date_format=j%20M%5B%20Y%5D&exclude_days=Thu%2CFri%2CSat)](https://git.io/streak-stats)
 <br>
 <h2 align="left">🤝Contact</h2>
 <p>For a quick response, DM me on <strong>twitter</strong></p>
